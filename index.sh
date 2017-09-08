@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-rm view.html
+rm -f view.html 
 cat log | ./view.sh

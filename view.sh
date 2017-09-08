@@ -34,6 +34,5 @@ do
   
   html="<html><body><div><h1>Value: $number</h1></body></html>"
   echo "$html" > view.html
-  #./view.sh "$number"
 done 
 
